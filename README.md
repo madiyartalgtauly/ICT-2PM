@@ -13,7 +13,7 @@ def subtract(x, y):
 def multiply(x, y):
     return x * y
 
-# This function multiplyes two numbers
+# This function multiplies two numbers
 def divide(x, y):
     return x / y
 
