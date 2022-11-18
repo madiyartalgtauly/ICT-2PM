@@ -1,5 +1,5 @@
 # ICT-2PM
-# Program make a sophisticated calculator
+# Program make a sophisticatedU calculator
 
 # This function adds three numbers
 def add(x, y):
