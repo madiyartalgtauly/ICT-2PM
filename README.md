@@ -1,11 +1,11 @@
 # ICT-2PM
-# Program make a simple calculator
+# Program make a sophisticated calculator
 
-# This function adds two numbers
+# This function adds three numbers
 def add(x, y):
     return x + y
 
-# This function subtracts two numbers
+# This function adds two numbers
 def subtract(x, y):
     return x - y
 
@@ -13,7 +13,7 @@ def subtract(x, y):
 def multiply(x, y):
     return x * y
 
-# This function divides two numbers
+# This function multiplyes two numbers
 def divide(x, y):
     return x / y
 
